@@ -1,0 +1,2 @@
+Ini contoh latihan baru
+- latihan baru di branch baru
