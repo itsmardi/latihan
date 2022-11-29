@@ -1,0 +1,4 @@
+Ini contoh latihan baru
+- latihan baru di branch baru
+- nanti latihan buat kolaborasi
+- kita pake CI
